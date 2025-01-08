@@ -10,7 +10,7 @@
 
 - 📫 Reach me on my email: **lebronnsamson@gmail.com**
 
-- 🧑‍💻 Connect with me: **www.linkedin.com/in/lbronnsamson/**
+- 🧑‍💻 Connect with me: **www.linkedin.com/in/lebronnsamson/**
 
 - ⚡ Fun fact about me is **I am an ENTJ-T guy!**
 
