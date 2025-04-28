@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact about me is **I am an ENTJ-T guy!**
 
-<br><br>
-
 <h2 align="left">📊 Coding Time</h2>
 
 <img src="https://wakatime.com/badge/user/b9c35860-0184-4ce7-a8f7-cff11bc12c45.svg" alt="wakatime time" wdith="75" height="20"/>
@@ -30,9 +28,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-<br><br>
-
-<h2 align="left">👨‍💻My Technical Skills</h2>
+<h2 align="left">👨‍💻 My Technical Skills</h2>
 
 - **Programming Langugages, Frameworks, Databases, and Tools:**
 
@@ -58,10 +54,7 @@ No activity tracked
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
 
-<br>
-
-<hr>
-<h3 align="left">📊My Github Stats:</h3>
+<h2 align="left">📊 My Github Stats:</h3>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lbronn&show_icons=true&locale=en&layout=compact" alt="lbronn" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lbronn&show_icons=true&locale=en" alt="lbronn" /></p>
