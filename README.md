@@ -18,7 +18,7 @@
 
 <h2 align="left">📊 Coding Time</h2>
 
-<img src="https://wakatime.com/badge/user/b9c35860-0184-4ce7-a8f7-cff11bc12c45.svg" alt="wakatime time" wdith="80" height="25"/>
+<img src="https://wakatime.com/badge/user/b9c35860-0184-4ce7-a8f7-cff11bc12c45.svg" alt="wakatime time" wdith="75" height="20"/>
 
 <!--START_SECTION:waka-->
 
