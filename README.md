@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Le Bronn👋</h1>
-<h3 align="center">An aspiring software developer⚡</h3>
+<h3 align="center">Junior Software Engineer⚡</h3>
 <br>
 
 <h1 align="center">✨About Me✨</h1>
@@ -13,6 +13,12 @@
 - 🧑‍💻 Connect with me: **www.linkedin.com/in/lebronnsamson/**
 
 - ⚡ Fun fact about me is **I am an ENTJ-T guy!**
+
+<br><br>
+
+<h2 align="left">📊 Coding Time</h2>
+
+<img src="https://wakatime.com/badge/user/b9c35860-0184-4ce7-a8f7-cff11bc12c45.svg" alt="wakatime time" wdith="80" height="25"/>
 
 <br><br>
 
