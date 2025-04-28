@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ waka_30928709-f30a-4936-8ef2-00800c9ca53d }}
 
           # --- optional but **valid** tweaks -----------------
           SHOW_TOTAL: true          # show “Total Time” line
