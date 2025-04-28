@@ -1,4 +1,4 @@
-\name: Update WakaTime stats in README
+name: Update WakaTime stats in README
 
 on:
   workflow_dispatch:
