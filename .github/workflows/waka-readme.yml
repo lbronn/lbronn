@@ -1,9 +1,9 @@
-name: Update WakaTime stats in README
+\name: Update WakaTime stats in README
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'   # every day 00:00 UTC
+    - cron: '0 0 * * *'
 
 jobs:
   build:
@@ -11,12 +11,13 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ waka_30928709-f30a-4936-8ef2-00800c9ca53d }}
+          # ←  do not paste the key; pull it from the secrets context
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN:          ${{ secrets.GITHUB_TOKEN }}   # commits back
 
-          # --- optional but **valid** tweaks -----------------
-          SHOW_TOTAL: true          # show “Total Time” line
-          TIME_RANGE: all_time      # last_7_days | last_30_days | all_time
-          LANG_COUNT: 3             # top-3 languages
-          BLOCKS: "░▒▓█"            # bar characters
-          STOP_AT_OTHER: true       # hide everything after “Other”
-          # ---------------------------------------------------
+          SHOW_TOTAL:   true
+          TIME_RANGE:   all_time
+          LANG_COUNT:   3
+          BLOCKS:       "░▒▓█"
+          STOP_AT_OTHER: true
+          
