@@ -20,6 +20,9 @@
 
 <img src="https://wakatime.com/badge/user/b9c35860-0184-4ce7-a8f7-cff11bc12c45.svg" alt="wakatime time" wdith="80" height="25"/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br><br>
 
 <h2 align="left">👨‍💻My Technical Skills</h2>
