@@ -1,21 +1,22 @@
 name: Update WakaTime stats in README
 
 on:
-  workflow_dispatch:      # allow manual runs
-  schedule:               # and run once a day (00:00 UTC)
-    - cron: '0 0 * * *'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'   # every day 00:00 UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master   # ✨ core action
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### ────────────────────────────── Tweak to your taste ──────────────
-          SHOW_TOTAL: true          # include “Total Time” line
+
+          # --- optional but **valid** tweaks -----------------
+          SHOW_TOTAL: true          # show “Total Time” line
           TIME_RANGE: all_time      # last_7_days | last_30_days | all_time
-          LANG_COUNT: 3             # show top-3 languages
-          BLOCKS: "░▒▓█"            # chars for the ascii bar
-          BAR_LENGTH: 35            # width of the bar
-          ### ─────────────────────────────────────────────────────────────────
+          LANG_COUNT: 3             # top-3 languages
+          BLOCKS: "░▒▓█"            # bar characters
+          STOP_AT_OTHER: true       # hide everything after “Other”
+          # ---------------------------------------------------
