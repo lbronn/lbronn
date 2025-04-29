@@ -1,8 +1,4 @@
 <h1 align="center">Hi! I'm Le Bronn👋</h1>
-<h3 align="center">Junior Software Engineer⚡</h3>
-<br>
-
-<h1 align="center">✨About Me✨</h1>
 
 - 🔭 I’m currently taking up **Bachelor of Science in Computer Science**
 
