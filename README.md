@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Bronn👋</h1>
 
-- 🔭 I have a degree in **Bachelor of Science in Computer Science** and graduated as **Cum Laude**
+- 🔭 I have a degree in **Bachelor of Science in Computer Science**
 
-- 🌱 I’m a Software Engineer with an interest in Mobile Applications Development
+- 🌱 I’m a Software Engineer with an interest in **Mobile Applications Development**
 
 - 📫 Reach me on my email: **lebronnsamson@gmail.com**
 
@@ -44,7 +44,7 @@ Java     1 min           ░░░░░░░░░░░░░░░░░░�
 
  	<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
- 	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+ 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
 
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
     	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
