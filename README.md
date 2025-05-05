@@ -1,8 +1,8 @@
-<h1 align="center">Hi! I'm Le Bronn👋</h1>
+<h1 align="center">Hi! I'm Bronn👋</h1>
 
-- 🔭 I’m currently taking up **Bachelor of Science in Computer Science**
+- 🔭 I have a degree in **Bachelor of Science in Computer Science** and graduated as **Cum Laude**
 
-- 🌱 I’m currently learning **Software (mobile and web) Development**
+- 🌱 I’m a Software Engineer with an interest in Mobile Applications Development
 
 - 📫 Reach me on my email: **lebronnsamson@gmail.com**
 
