@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 11 mins
+Total Time: 18 hrs 20 mins
 
-Kotlin   17 hrs 6 mins   █████████████████████████   99.49 %
-XML      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Java     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Kotlin     17 hrs 6 mins   ███████████████████████▒░   93.24 %
+Dart       1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
