@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 24 hrs
+Total Time: 28 hrs 17 mins
 
-Kotlin       17 hrs 6 mins   █████████████████▓░░░░░░░   71.24 %
-Python       4 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
-Dart         1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Kotlin       17 hrs 6 mins   ███████████████░░░░░░░░░░   60.43 %
+Python       6 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.86 %
+Text         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 ```
 
 <!--END_SECTION:waka-->
