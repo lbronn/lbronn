@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 256 hrs 17 mins
+Total Time: 264 hrs 52 mins
 
-Python            79 hrs 10 mins  ███████▒░░░░░░░░░░░░░░░░░   29.42 %
-Text              66 hrs 14 mins  ██████░░░░░░░░░░░░░░░░░░░   24.61 %
-Kotlin            29 hrs 18 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+Python            86 hrs 37 mins  ███████▓░░░░░░░░░░░░░░░░░   31.15 %
+Text              66 hrs 29 mins  ██████░░░░░░░░░░░░░░░░░░░   23.91 %
+Markdown          29 hrs 18 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
 ```
 
 <!--END_SECTION:waka-->
