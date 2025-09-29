@@ -2,7 +2,7 @@
 
 - 🔭 I have a degree in **Bachelor of Science in Computer Science**
 
-- 🌱 I’m a Software Systems Developer at ChartNexus that's focusing on **building AI models, bots, and agents**
+- 🌱 I’m a Software Systems Developer that's **open to work**
 
 - 📫 Reach me on my email: **lebronnsamson@gmail.com**
 
