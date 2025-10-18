@@ -1,16 +1,16 @@
 <h1 align="center">Hi! I'm Bronn👋</h1>
 
-- 🔭 I have a degree in **Bachelor of Science in Computer Science**
+- 🔭 I have a degree in **Bachelor of Science in Computer Science** and finished as a **Cum Laude**
 
-- 🌱 I’m a Software Systems Developer that's **open to work**
+- 🌱 I’m a Software Engineer that's **focused on AI development on multiplatforms and in-house automation**
 
 - 📫 Reach me on my email: **lebronnsamson@gmail.com**
 
 - 🧑‍💻 Connect with me: **www.linkedin.com/in/lebronnsamson/**
 
-- ⚡ Fun fact about me is **I am an ENTJ-T guy!**
+- ⚡ Fun fact about me is I am literally a **HUGE** engineer!
 
-<h2 align="left">📊 Coding Time</h2>
+<h2 align="left">📊 Spent Time per Languages</h2>
 
 <img src="https://wakatime.com/badge/user/b9c35860-0184-4ce7-a8f7-cff11bc12c45.svg" alt="wakatime time" wdith="75" height="20"/>
 
@@ -26,7 +26,7 @@ Markdown          47 hrs 51 mins  ███░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<h2 align="left">👨‍💻 My Technical Skills</h2>
+<h2 align="left">👨‍💻 My Tech Stack</h2>
 
 - **Programming Langugages, Frameworks, Databases, and Tools:**
 
