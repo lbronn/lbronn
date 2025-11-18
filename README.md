@@ -19,9 +19,9 @@
 ```txt
 Total Time: 383 hrs 10 mins
 
-Python            132 hrs 6 mins  ████████░░░░░░░░░░░░░░░░░   31.76 %
+Python            132 hrs 6 mins  ████████░░░░░░░░░░░░░░░░░   31.75 %
 Text              89 hrs 34 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
-Markdown          47 hrs 51 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+Markdown          47 hrs 51 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
 ```
 
 <!--END_SECTION:waka-->
