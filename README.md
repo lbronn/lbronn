@@ -2,7 +2,7 @@
 
 - 🔭 I have a degree in **Bachelor of Science in Computer Science** and finished as a **Cum Laude**
 
-- 🌱 I’m a Software Solutions Engineer at **Smartsourcing** that's **focused on AI development on multiplatforms and in-house automation**
+- 🌱 I’m an AI Engineer at **Smartsourcing** that's **focused on AI development on multiplatforms and in-house automation**
 
 - 📫 Reach me on my email: **lebronnsamson@gmail.com**
 
