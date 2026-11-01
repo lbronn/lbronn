@@ -1,14 +1,14 @@
 <h1 align="center">Hi! I'm Bronn👋</h1>
 
-- 🔭 I have a degree in **Bachelor of Science in Computer Science** and finished as a **Cum Laude**
+- 🎓 Graduated **Cum Laude** with a **BS in Computer Science** from **Cebu Institute of Technology–University**, and a **PhilNITS FE (Level 2) Gold Medal** awardee
 
-- 🌱 I’m an AI Engineer at **Smartsourcing** that's **focused on AI development on multiplatforms and in-house automation**
+- 🤖 I'm an **AI Engineer at Smartsourcing**, co-leading the development of **production-ready AI agents** and **scalable internal platforms** that automate complex workflows
 
-- 📫 Reach me on my email: **lebronnsamson@gmail.com**
+- 🎤 Speaker on AI at the **10th Central Visayas Health Research & Innovation Conference** (4th Best Student Research) and **AI Essentials at Work**
 
-- 🧑‍💻 Connect with me: **www.linkedin.com/in/lebronnsamson/**
+- 📫 Reach me at **[lebronnsamson@gmail.com](mailto:lebronnsamson@gmail.com)** · see my work at **[bronny.dev](https://bronny.dev)** · connect on **[LinkedIn](https://www.linkedin.com/in/lebronnsamson/)**
 
-- ⚡ Fun fact about me is I am literally a **HUGE** engineer!
+- ⚡ Fun fact: I'm literally a **HUGE** engineer! Off the clock, you'll find me on the basketball or pickleball court, hiking trails, or coffee-hopping around Cebu City
 
 <h2 align="left">📊 Spent Time per Languages</h2>
 
