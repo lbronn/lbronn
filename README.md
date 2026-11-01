@@ -1,10 +1,10 @@
 <h1 align="center">Hi! I'm Bronn👋</h1>
 
-- 🎓 Graduated **Cum Laude** with a **BS in Computer Science** from **Cebu Institute of Technology–University**, and a **PhilNITS FE (Level 2) Gold Medal** awardee
-
 - 🤖 I'm an **AI Engineer at Smartsourcing**, co-leading the development of **production-ready AI agents** and **scalable internal platforms** that automate complex workflows
 
-- 🎤 Speaker on AI at the **10th Central Visayas Health Research & Innovation Conference** (4th Best Student Research) and **AI Essentials at Work**
+- 🎤 I speak about **AI in healthcare** and **AI in the workplace** at research conferences and corporate trainings
+
+- 🎓 Graduated **Cum Laude** with a **BS in Computer Science** from **Cebu Institute of Technology–University**, and a **PhilNITS FE (Level 2) Gold Medal** awardee
 
 - 📫 Reach me at **[lebronnsamson@gmail.com](mailto:lebronnsamson@gmail.com)** · see my work at **[bronny.dev](https://bronny.dev)** · connect on **[LinkedIn](https://www.linkedin.com/in/lebronnsamson/)**
 
