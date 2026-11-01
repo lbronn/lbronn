@@ -6,9 +6,9 @@
 
 - 🎓 Graduated **Cum Laude** with a **BS in Computer Science** from **Cebu Institute of Technology–University**, and a **PhilNITS FE (Level 2) Gold Medal** awardee
 
-- 📫 Reach me at **[lebronnsamson@gmail.com](mailto:lebronnsamson@gmail.com)** · see my work at **[bronny.dev](https://bronny.dev)** · connect on **[LinkedIn](https://www.linkedin.com/in/lebronnsamson/)**
+- 📫 Reach me at **[lebronnsamson@gmail.com](mailto:lebronnsamson@gmail.com)** · See my work at **[bronny.dev](https://bronny.dev)** · Connect on **[LinkedIn](https://www.linkedin.com/in/lebronnsamson/)**
 
-- ⚡ Fun fact: I'm literally a **HUGE** engineer! Off the clock, you'll find me on the basketball or pickleball court, hiking trails, or coffee-hopping around Cebu City
+- ⚡ Off the clock, you'll find me on the basketball or pickleball court, hiking trails, or coffee-hopping around Cebu City
 
 <h2 align="left">📊 Spent Time per Languages</h2>
 
