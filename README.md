@@ -1,31 +1,31 @@
 <h1 align="center">Hi! I'm Bronn👋</h1>
 
 <p align="center">
-  <img src="./assets/typing.svg" alt="AI & Software Engineer · Building AI Agents & Agentic RAG · Shipping Production-Ready AI Systems · Based in Cebu City, Philippines" width="640"/>
+  <img src="./assets/typing.svg" alt="AI & Software Engineer · Building AI Agents & Agentic Workflows · Shipping Production-Ready AI Systems · Based in Cebu City, Philippines" width="640"/>
 </p>
 
-- 🤖 **AI Engineer at Smartsourcing**, co-leading production-ready **AI agents** and **internal platforms**
+- 🤖 I'm an **AI Engineer at Smartsourcing**, co-leading the development of **production-ready AI agents** and **scalable platforms** that automate complex workflows
 
-- 🎤 Speaker on **AI in healthcare** and **AI in the workplace**
+- 🎤 I speak about **AI in healthcare** and **AI in the workplace** at research conferences and corporate trainings
 
-- 🎓 **Cum Laude**, BS Computer Science at **Cebu Institute of Technology–University** · **PhilNITS FE Gold Medal** awardee
+- 🎓 Graduated **Cum Laude** with a **BS Computer Science** from **Cebu Institute of Technology–University**, and a **PhilNITS FE (Level 2) Gold Medal** awardee
 
 - 🔭 Currently learning:
-  - **Reverse engineering software** to sharpen critical thinking
-  - **Harness engineering** with hybrid private and open-weight LLMs
+  - **Reverse engineering software** to further sharpen my critical thinking skills
+  - **Harness engineering** using multiple LLMs with a hybrid combination of private and open-weight models
   - **AI & Machine Learning algorithms**
-  - Combining the **AI and Software Development Life Cycles** more efficiently
-  - **Project management, leadership, and collaboration**
+  - A much more efficient way of combining the **AI and Software Development Life Cycles**
+  - Honing my **project management, leadership**, and **collaboration** skills
 
-- 📫 **[lebronnsamson@gmail.com](mailto:lebronnsamson@gmail.com)** · **[bronny.dev](https://bronny.dev)** · **[LinkedIn](https://www.linkedin.com/in/lebronnsamson/)**
+- 📫 Reach me at **[lebronnsamson@gmail.com](mailto:lebronnsamson@gmail.com)** · See my work at **[bronny.dev](https://bronny.dev)** · Connect on **[LinkedIn](https://www.linkedin.com/in/lebronnsamson/)**
 
-- ⚡ Off the clock: basketball, pickleball, hiking, and coffee-hopping around Cebu City
+- ⚡ Off the clock, you'll find me on the basketball or pickleball court, hiking trails, or coffee-hopping around the city
 
 <h2 align="left">👨‍💻 My Tech Stack</h2>
 
 ### 🛠️ Software Engineering
 
-<sub>Building scalable, full-stack software and internal platforms — from interfaces and APIs to databases and integrations.</sub>
+<p>Building scalable, full-stack software and internal platforms — from interfaces and APIs to databases and integrations.</p>
 
 <table>
   <tr>
@@ -48,7 +48,7 @@
 
 ### 🤖 AI Engineering
 
-<sub>Designing and deploying production-ready AI agents, RAG systems, and intelligent workflows through LLM integration, orchestration, and evaluation.</sub>
+<p>Designing and deploying production-ready AI agents, RAG systems, and intelligent workflows through LLM integration, orchestration, and evaluation.</p>
 
 <table>
   <tr>
@@ -77,7 +77,7 @@
 
 ### 🚀 DevOps &amp; Infrastructure
 
-<sub>Taking software from development to production through containerization, deployment, testing, and monitoring.</sub>
+<p>Taking software from development to production through containerization, deployment, testing, and monitoring.</p>
 
 <table>
   <tr>
