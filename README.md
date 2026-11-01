@@ -1,5 +1,9 @@
 <h1 align="center">Hi! I'm Bronn👋</h1>
 
+<p align="center">
+  <img src="./assets/typing.svg" alt="AI & Software Engineer · Building AI Agents & Agentic RAG · Shipping Production-Ready AI Systems · Based in Cebu City, Philippines" width="640"/>
+</p>
+
 - 🤖 I'm an **AI Engineer at Smartsourcing**, co-leading the development of **production-ready AI agents** and **scalable internal platforms** that automate complex workflows
 
 - 🎤 I speak about **AI in healthcare** and **AI in the workplace** at research conferences and corporate trainings
@@ -9,6 +13,61 @@
 - 📫 Reach me at **[lebronnsamson@gmail.com](mailto:lebronnsamson@gmail.com)** · See my work at **[bronny.dev](https://bronny.dev)** · Connect on **[LinkedIn](https://www.linkedin.com/in/lebronnsamson/)**
 
 - ⚡ Off the clock, you'll find me on the basketball or pickleball court, hiking trails, or coffee-hopping around Cebu City
+
+<details>
+<summary><b>🏆 Achievements &amp; Milestones</b></summary>
+<br/>
+
+| | Milestone | Details |
+|:-:|---|---|
+| 🎓 | **Cum Laude, BS Computer Science** | Cebu Institute of Technology–University · 2021 – 2025 |
+| 🥇 | **PhilNITS FE (Level 2) Gold Medal** | Passed the ITPEC Fundamental IT Engineers exam, based on Japan's IT engineer standards · 2024 – 2025 |
+| 🧠 | **4th Best Student Research** | Presented AI for stroke detection and patient triage at the 10th Central Visayas Health Research &amp; Innovation Conference · May 2025 |
+| 🎤 | **Speaker, AI Essentials at Work** | Shared how to apply AI in the workplace at a corporate training in Lapu-Lapu City, Cebu · Oct 2026 |
+
+</details>
+
+<details>
+<summary><b>🔭 Currently Learning</b></summary>
+<br/>
+
+- 🧩 **AI Agents Orchestration &amp; Engineering**: coordinating multiple agents, tools, and evaluations in production
+
+</details>
+
+<h2 align="left">💼 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://bronny.dev/project/thrombolaize/"><img src="./assets/projects/thrombolaize-640.webp" alt="Thrombolaize app screens" width="100%"/></a>
+      <h3>🧠 Thrombolaize</h3>
+      <sub>Mobile · AI · 2025</sub>
+      <p>A mobile app powered by an AI image classifier and segmentation model that identifies cerebral ischemic strokes.</p>
+      <sub><code>Kotlin</code> <code>FastAPI</code> <code>Firebase</code> <code>CNN</code></sub>
+      <br/><br/>
+      <a href="https://bronny.dev/project/thrombolaize/">Details</a> · <a href="https://github.com/lbronn/Thrombolaize-Mobile-App">Code</a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://bronny.dev/project/boardprep/"><img src="./assets/projects/boardprep-640.webp" alt="BoardPrep interface" width="100%"/></a>
+      <h3>📚 BoardPrep</h3>
+      <sub>Web app · AI · 2024</sub>
+      <p>A full-stack web app that helps engineering students prepare with personalized, AI-tailored content and assessments.</p>
+      <sub><code>React</code> <code>TypeScript</code> <code>Django</code> <code>PostgreSQL</code></sub>
+      <br/><br/>
+      <a href="https://bronny.dev/project/boardprep/">Details</a> · <a href="https://github.com/lbronn/BoardPrep-Final-Backend">Code</a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://bronny.dev/project/work-to-home/"><img src="./assets/projects/work-to-home-640.webp" alt="Work-to-Home Forecast workflow and Discord briefing" width="100%"/></a>
+      <h3>🚗 Work-to-Home Forecast</h3>
+      <sub>Automation · n8n · 2025</sub>
+      <p>An n8n automation that posts a commute briefing (traffic, weather, and a route map) to Discord.</p>
+      <sub><code>n8n</code> <code>Google APIs</code> <code>Discord</code></sub>
+      <br/><br/>
+      <a href="https://bronny.dev/project/work-to-home/">Details</a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">📊 Spent Time per Languages</h2>
 
@@ -101,3 +160,13 @@ Text              119 hrs 47 mins       ██▒░░░░░░░░░░�
     <td align="center" width="110"><img src="./assets/logos/microsoft.svg" alt="Microsoft 365" title="Microsoft 365" width="40" height="40"/><br/><sub>Microsoft 365</sub></td>
   </tr>
 </table>
+
+<h2 align="left">🐍 Contribution Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lbronn/lbronn/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lbronn/lbronn/output/github-snake.svg"/>
+    <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/lbronn/lbronn/output/github-snake.svg"/>
+  </picture>
+</p>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="44" viewBox="0 0 640 44" role="img" aria-label="AI &amp; Software Engineer · Building AI Agents &amp; Agentic RAG · Shipping Production-Ready AI Systems · Based in Cebu City, Philippines">
+<title>AI &amp; Software Engineer · Building AI Agents &amp; Agentic RAG · Shipping Production-Ready AI Systems · Based in Cebu City, Philippines</title>
+<style>
+text{font:600 22px ui-monospace,SFMono-Regular,Menlo,Consolas,"DejaVu Sans Mono","Liberation Mono",monospace;fill:#2F81F7}
+.cur{fill:#2F81F7;animation:blink .9s step-end infinite}@keyframes blink{50%{opacity:0}}
+@keyframes w0{0%,0.000%{width:0;animation-timing-function:steps(22,end)}8.618%,17.571%{width:290.4px;animation-timing-function:steps(22,end)}20.369%,100%{width:0}}#c0 rect{animation:w0 17.87s infinite}
+@keyframes m0{0%,0.000%{transform:translateX(0);opacity:0;animation-timing-function:steps(22,end)}0.006%{opacity:1;transform:translateX(0);animation-timing-function:steps(22,end)}8.618%,17.571%{transform:translateX(290.4px);opacity:1;animation-timing-function:steps(22,end)}20.369%{transform:translateX(0);opacity:1}20.375%,100%{opacity:0}}#k0{animation:m0 17.87s infinite}
+@keyframes w1{0%,21.768%{width:0;animation-timing-function:steps(32,end)}34.303%,43.257%{width:422.4px;animation-timing-function:steps(32,end)}46.055%,100%{width:0}}#c1 rect{animation:w1 17.87s infinite}
+@keyframes m1{0%,21.768%{transform:translateX(0);opacity:0;animation-timing-function:steps(32,end)}21.774%{opacity:1;transform:translateX(0);animation-timing-function:steps(32,end)}34.303%,43.257%{transform:translateX(422.4px);opacity:1;animation-timing-function:steps(32,end)}46.055%{transform:translateX(0);opacity:1}46.060%,100%{opacity:0}}#k1{animation:m1 17.87s infinite}
+@keyframes w2{0%,47.454%{width:0;animation-timing-function:steps(36,end)}61.556%,70.509%{width:475.2px;animation-timing-function:steps(36,end)}73.307%,100%{width:0}}#c2 rect{animation:w2 17.87s infinite}
+@keyframes m2{0%,47.454%{transform:translateX(0);opacity:0;animation-timing-function:steps(36,end)}47.459%{opacity:1;transform:translateX(0);animation-timing-function:steps(36,end)}61.556%,70.509%{transform:translateX(475.2px);opacity:1;animation-timing-function:steps(36,end)}73.307%{transform:translateX(0);opacity:1}73.313%,100%{opacity:0}}#k2{animation:m2 17.87s infinite}
+@keyframes w3{0%,74.706%{width:0;animation-timing-function:steps(31,end)}86.849%,95.803%{width:409.2px;animation-timing-function:steps(31,end)}98.601%,100%{width:0}}#c3 rect{animation:w3 17.87s infinite}
+@keyframes m3{0%,74.706%{transform:translateX(0);opacity:0;animation-timing-function:steps(31,end)}74.712%{opacity:1;transform:translateX(0);animation-timing-function:steps(31,end)}86.849%,95.803%{transform:translateX(409.2px);opacity:1;animation-timing-function:steps(31,end)}98.601%{transform:translateX(0);opacity:1}98.607%,100%{opacity:0}}#k3{animation:m3 17.87s infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}#c0 rect{width:290.4px}.cur{opacity:0}}
+</style>
+<clipPath id="c0"><rect x="174.8" y="0" width="0" height="44"/></clipPath><text clip-path="url(#c0)" x="174.8" y="29" textLength="290.4" lengthAdjust="spacing">AI &amp; Software Engineer</text><g id="k0"><rect class="cur" x="175.8" y="10" width="2.5" height="24"/></g>
+<clipPath id="c1"><rect x="108.8" y="0" width="0" height="44"/></clipPath><text clip-path="url(#c1)" x="108.8" y="29" textLength="422.4" lengthAdjust="spacing">Building AI Agents &amp; Agentic RAG</text><g id="k1"><rect class="cur" x="109.8" y="10" width="2.5" height="24"/></g>
+<clipPath id="c2"><rect x="82.4" y="0" width="0" height="44"/></clipPath><text clip-path="url(#c2)" x="82.4" y="29" textLength="475.2" lengthAdjust="spacing">Shipping Production-Ready AI Systems</text><g id="k2"><rect class="cur" x="83.4" y="10" width="2.5" height="24"/></g>
+<clipPath id="c3"><rect x="115.4" y="0" width="0" height="44"/></clipPath><text clip-path="url(#c3)" x="115.4" y="29" textLength="409.2" lengthAdjust="spacing">Based in Cebu City, Philippines</text><g id="k3"><rect class="cur" x="116.4" y="10" width="2.5" height="24"/></g>
+</svg>
