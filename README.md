@@ -4,22 +4,22 @@
   <img src="./assets/typing.svg" alt="AI & Software Engineer · Building AI Agents & Agentic RAG · Shipping Production-Ready AI Systems · Based in Cebu City, Philippines" width="640"/>
 </p>
 
-- 🤖 I'm an **AI Engineer at Smartsourcing**, co-leading the development of **production-ready AI agents** and **scalable internal platforms** that automate complex workflows
+- 🤖 **AI Engineer at Smartsourcing**, co-leading production-ready **AI agents** and **internal platforms**
 
-- 🎤 I speak about **AI in healthcare** and **AI in the workplace** at research conferences and corporate trainings
+- 🎤 Speaker on **AI in healthcare** and **AI in the workplace**
 
-- 🎓 Graduated **Cum Laude** with a **BS in Computer Science** from **Cebu Institute of Technology–University**, and a **PhilNITS FE (Level 2) Gold Medal** awardee
+- 🎓 **Cum Laude**, BS Computer Science at **Cebu Institute of Technology–University** · **PhilNITS FE Gold Medal** awardee
 
 - 🔭 Currently learning:
-  - **Reverse engineering software** to further sharpen my critical thinking skills
-  - **Harness engineering** using multiple LLMs with a hybrid combination of private and open-weight models
-  - **AI &amp; Machine Learning algorithms**
-  - A much more efficient way of combining the **ADLC and SDLC**
-  - Honing my **project management, leadership, and collaboration** skills
+  - **Reverse engineering software** to sharpen critical thinking
+  - **Harness engineering** with hybrid private and open-weight LLMs
+  - **AI & Machine Learning algorithms**
+  - Combining the **AI and Software Development Life Cycles** more efficiently
+  - **Project management, leadership, and collaboration**
 
-- 📫 Reach me at **[lebronnsamson@gmail.com](mailto:lebronnsamson@gmail.com)** · See my work at **[bronny.dev](https://bronny.dev)** · Connect on **[LinkedIn](https://www.linkedin.com/in/lebronnsamson/)**
+- 📫 **[lebronnsamson@gmail.com](mailto:lebronnsamson@gmail.com)** · **[bronny.dev](https://bronny.dev)** · **[LinkedIn](https://www.linkedin.com/in/lebronnsamson/)**
 
-- ⚡ Off the clock, you'll find me on the basketball or pickleball court, hiking trails, or coffee-hopping around Cebu City
+- ⚡ Off the clock: basketball, pickleball, hiking, and coffee-hopping around Cebu City
 
 <h2 align="left">👨‍💻 My Tech Stack</h2>
 
